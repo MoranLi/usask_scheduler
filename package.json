@@ -1,0 +1,23 @@
+{
+  "name": "usask_course_scheduling",
+  "version": "1.0.0",
+  "description": "scheduler for course in usask",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoranLi/usask_scheduler.git"
+  },
+  "author": "YUKUN LI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MoranLi/usask_scheduler/issues"
+  },
+  "homepage": "https://github.com/MoranLi/usask_scheduler#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
